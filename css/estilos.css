@@ -1,0 +1,31 @@
+body{
+    background-image:url(https://nuwallpaperhd.info/wp-content/uploads/2018/01/Rainbow-Color-Splash-Swirl-Background-Wallpaper.jpg);
+    background-size:auto,100vh;
+    font-family: Comic Sans MS;
+    height:100vh;
+  }
+  .menu {
+    background-color: white;
+    }
+  a{
+    color: green;
+    text-decoration:none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu ul{
+    display:flex;
+    justify-content: space-around;
+  }
+  .menu li {
+   list-style: none; 
+   }
+  .site-subtitle,
+  .site-title{
+    color: whitesmoke;
+    text-align: center;
+  }
+  .site-subtitle{
+    font-style: italic;
+  }
